@@ -1,11 +1,14 @@
 # 🙎‍♀️ Júlia Uemura
-<img src="assets/foto.jpeg">
+
+<img src="assets/foto.jpeg" width="120">
 
 Meu nome é Júlia Uemura, sou estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas pelo CEUB.  
 Atualmente, busco oportunidades de estágio para desenvolver meus conhecimentos e adquirir experiência prática na área de tecnologia.
 
 📧 Email: juliauemuraferreira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/julia-uemura-ferreira-4722093b4)
+
+---
 
 ## 📄 Currículo
 
@@ -14,33 +17,52 @@ Atualmente, busco oportunidades de estágio para desenvolver meus conhecimentos 
 - Instituição: CEUB  
 - Período: 1º semestre  
 
+---
+
 ### 💼 Experiência
 - Estudante com foco em desenvolvimento acadêmico  
 
-  
-## 🧠 Habilidades e Competências
-👉 [Ver minha apresentação de habilidades](https://canva.link/5v4hm3sx4myej0y)
+---
+
+## 📌 Planejamento do Repositório
+Este repositório foi criado para organizar meu portfólio pessoal, contendo projetos acadêmicos e informações profissionais.  
+As seções incluem projetos, documentação e arquivos do site.
+
+---
+
+## 📁 Estrutura do Repositório
+juliauemuraportfolio.github.io
+├── index.html
+├── style.css
+├── assets/
+│ └── foto.jpeg
+├── projetos/
+└── README.md
 
 
-## 🌎 Idiomas
-- Português: Nativo  
-- Inglês: Básico  
+---
 
-## 💻 Projetos
+## 💻 Criação e Versionamento com Git
 
-### 🏨 Sistema de Gerenciamento de Hotel
-Projeto acadêmico desenvolvido com foco em lógica matemática e teoria dos conjuntos.
+O projeto foi desenvolvido utilizando Git para controle de versão.
 
-- Modelagem de um sistema de hotel com regras de reserva, limpeza, acesso VIP e estacionamento  
-- Aplicação de lógica matemática  
-- Organização de dados do sistema  
+### Etapas realizadas:
+- git init
+- git add .
+- git commit -m "versão inicial do portfólio"
+- git push
 
-🔗 [Acessar projeto completo](https://docs.google.com/document/d/1O96y1N_l8qCbM-KMxA9VhMgRS79G3TOA9RYczIxkxUY/edit?usp=sharing)
+---
 
+## 🌐 GitHub Pages
 
-## ⭐ Recomendações
-Atualmente não possuo recomendações formais, mas estou aberta a oportunidades para adquirir experiência profissional e desenvolver minhas habilidades.
+O site foi publicado utilizando GitHub Pages.
 
+🔗 Link do site:  
+https://julia-uemura.github.io/juliauemuraportfolio.github.io/
+
+---
 
 ## 🎯 Objetivo
-Busco uma oportunidade de estágio na área de tecnologia para desenvolver minhas habilidades práticas e crescer profissionalmente.
+
+Desenvolver habilidades práticas na área de tecnologia, construindo experiência profissional através de projetos acadêmicos e pessoais.
