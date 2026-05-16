@@ -60,6 +60,23 @@ O site foi publicado utilizando GitHub Pages.
 
 🔗 Link do site:  
 https://julia-uemura.github.io/juliauemuraportfolio.github.io/
+---
+
+## 💻 Projetos
+
+### 🏨 Sistema de Gerenciamento de Hotel
+
+Projeto acadêmico desenvolvido com foco em lógica matemática e teoria dos conjuntos.
+
+### Funcionalidades:
+- Modelagem de reservas
+- Controle de limpeza
+- Sistema VIP
+- Organização de estacionamento
+
+🔗 [Acessar projeto completo](https://docs.google.com/document/d/1O96y1N_l8qCbM-KMxA9VhMgRS79G3TOA9RYczIxkxUY/edit?usp=sharing)
+
+---
 
 ---
 
